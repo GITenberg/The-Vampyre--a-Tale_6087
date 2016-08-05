@@ -1,0 +1,48 @@
+_repo: The-Vampyre--a-Tale_6087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Polidori, John William
+    birthdate: 1795
+    deathdate: 1821
+    gutenberg_agent_id: '1943'
+    url: http://www.gutenberg.org/2009/agents/1943
+    wikipedia: http://en.wikipedia.org/wiki/John_Polidori
+description: "\"The Vampyre\" is a short work of prose fiction written in 1819 by\
+  \ John William Polidori. The work is often viewed as the progenitor of the romantic\
+  \ vampire genre of fantasy fiction. The work is described by Christopher Frayling\
+  \ as \"the first story successfully to fuse the disparate elements of vampirism\
+  \ into a coherent literary genre.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Gothic Fiction
+- Horror
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6087'
+  wikidata: Q509070
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vampires -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+- GITenberg
+title: The Vampyre; a Tale
+url: http://www.gutenberg.org/ebooks/6087
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Vampire_(nouvelle)
+- https://nl.wikipedia.org/wiki/The_Vampyre
+- https://id.wikipedia.org/wiki/The_Vampyre
+- https://pt.wikipedia.org/wiki/O_Vampiro
+- https://de.wikisource.org/wiki/Der_Vampyr
+- https://de.wikipedia.org/wiki/Der_Vampyr_(Polidori)
+- https://es.wikipedia.org/wiki/El_vampiro_(1819)
+- https://en.wikisource.org/wiki/The_Vampyre
+- https://en.wikipedia.org/wiki/The_Vampyre
+- https://it.wikipedia.org/wiki/Il_vampiro_(racconto)
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BC%D0%BF%D0%B8%D1%80_(%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7)
+- https://fr.wikisource.org/wiki/Le_Vampire_(Polidori)
