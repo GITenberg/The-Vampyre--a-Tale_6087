@@ -1,5 +1,8 @@
 _repo: The-Vampyre--a-Tale_6087
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Polidori, John William
@@ -13,6 +16,8 @@ description: "\"The Vampyre\" is a short work of prose fiction written in 1819 b
   \ vampire genre of fantasy fiction. The work is described by Christopher Frayling\
   \ as \"the first story successfully to fuse the disparate elements of vampirism\
   \ into a coherent literary genre.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6087#The-Vampyre--a-Tale
 gutenberg_bookshelf:
 - Gothic Fiction
 - Horror
